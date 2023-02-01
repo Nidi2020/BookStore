@@ -1,0 +1,15 @@
+E:\Projects\BookStore\BookStore\BookStore.Entities\bin\Debug\net6.0\BookStore.Entities.deps.json
+E:\Projects\BookStore\BookStore\BookStore.Entities\bin\Debug\net6.0\BookStore.Entities.dll
+E:\Projects\BookStore\BookStore\BookStore.Entities\bin\Debug\net6.0\ref\BookStore.Entities.dll
+E:\Projects\BookStore\BookStore\BookStore.Entities\bin\Debug\net6.0\BookStore.Entities.pdb
+E:\Projects\BookStore\BookStore\BookStore.Entities\bin\Debug\net6.0\BookStore.Common.dll
+E:\Projects\BookStore\BookStore\BookStore.Entities\bin\Debug\net6.0\BookStore.Common.pdb
+E:\Projects\BookStore\BookStore\BookStore.Entities\obj\Debug\net6.0\BookStore.Entities.csproj.AssemblyReference.cache
+E:\Projects\BookStore\BookStore\BookStore.Entities\obj\Debug\net6.0\BookStore.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BookStore\BookStore\BookStore.Entities\obj\Debug\net6.0\BookStore.Entities.AssemblyInfoInputs.cache
+E:\Projects\BookStore\BookStore\BookStore.Entities\obj\Debug\net6.0\BookStore.Entities.AssemblyInfo.cs
+E:\Projects\BookStore\BookStore\BookStore.Entities\obj\Debug\net6.0\BookStore.Entities.csproj.CoreCompileInputs.cache
+E:\Projects\BookStore\BookStore\BookStore.Entities\obj\Debug\net6.0\BookStore.Entities.csproj.CopyComplete
+E:\Projects\BookStore\BookStore\BookStore.Entities\obj\Debug\net6.0\BookStore.Entities.dll
+E:\Projects\BookStore\BookStore\BookStore.Entities\obj\Debug\net6.0\ref\BookStore.Entities.dll
+E:\Projects\BookStore\BookStore\BookStore.Entities\obj\Debug\net6.0\BookStore.Entities.pdb

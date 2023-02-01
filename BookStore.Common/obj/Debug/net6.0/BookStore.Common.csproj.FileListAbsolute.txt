@@ -1,0 +1,12 @@
+E:\Projects\BookStore\BookStore\BookStore.Common\bin\Debug\net6.0\BookStore.Common.deps.json
+E:\Projects\BookStore\BookStore\BookStore.Common\bin\Debug\net6.0\BookStore.Common.dll
+E:\Projects\BookStore\BookStore\BookStore.Common\bin\Debug\net6.0\ref\BookStore.Common.dll
+E:\Projects\BookStore\BookStore\BookStore.Common\bin\Debug\net6.0\BookStore.Common.pdb
+E:\Projects\BookStore\BookStore\BookStore.Common\obj\Debug\net6.0\BookStore.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BookStore\BookStore\BookStore.Common\obj\Debug\net6.0\BookStore.Common.AssemblyInfoInputs.cache
+E:\Projects\BookStore\BookStore\BookStore.Common\obj\Debug\net6.0\BookStore.Common.AssemblyInfo.cs
+E:\Projects\BookStore\BookStore\BookStore.Common\obj\Debug\net6.0\BookStore.Common.csproj.CoreCompileInputs.cache
+E:\Projects\BookStore\BookStore\BookStore.Common\obj\Debug\net6.0\BookStore.Common.dll
+E:\Projects\BookStore\BookStore\BookStore.Common\obj\Debug\net6.0\ref\BookStore.Common.dll
+E:\Projects\BookStore\BookStore\BookStore.Common\obj\Debug\net6.0\BookStore.Common.pdb
+E:\Projects\BookStore\BookStore\BookStore.Common\obj\Debug\net6.0\BookStore.Common.csproj.AssemblyReference.cache
