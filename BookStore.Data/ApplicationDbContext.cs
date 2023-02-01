@@ -12,14 +12,12 @@ public class ApplicationDbContext : IdentityDbContext<User, Role, int> //DbConte
     public ApplicationDbContext(DbContextOptions options) : base(options)
     {
     }
-
-    //baraye sakhtan tables be soorat automatic ba komak reflaction ha... fluent configuration 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        //firstly
+        //first 
         base.OnModelCreating(modelBuilder);
 
-        var entitiesAssembly = typeof(IEntity).Assembly; //go into assemblies(ddl files) Entities Layer
+        var entitiesAssembly = typeof(IEntity).Assembly;  
 
         modelBuilder.RegisterAllEntities<IEntity>(entitiesAssembly);
         modelBuilder.RegisterEntityTypeConfiguration(entitiesAssembly);
