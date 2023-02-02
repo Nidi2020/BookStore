@@ -1,0 +1,24 @@
+Sample project
+It is a mini project about a bookstore which is included some APIs. They are listed below:
+- Register user
+- Login and get JWT token
+- Get & filter the books list 
+- Add order (moreover, calculate scores and save)
+- Get Orders
+- Get the current user information  
+- Update the user
+The information about each API is as follows:
+1-	Register user: this method gets and saves routine information such as name, surname, age, date of birth, national code, mobile number and email in the user’s table.
+2-	 Login and get a token: this method logins with email and password and returns a JWT token.
+3-	List of products or books: it includes a list of books' information and can only be accessed if the user has a valid token.
+4-	Selecting books by the user and registering them:  it also requires authentication and the user can choose a list of books after logging in. After selecting the books, that will be registered for that user. Furthermore, when the user chooses a book for himself, points are given for each book according to the user's age.
+Points conditions:
+-	Age is between 15 and 25 - 40 points per book
+-	Age is between 26 and 35 - 30 points per book
+-	Age is between 36 and 45 - 20 points per book
+-	Age is between 46 and 55 - 10 points per book
+-	Age is more than 55 - 5 points per book
+
+5-	Get the list of information about the books selected by the user: this method includes a list of user’s information along with the books they chose. If the user's name is Admin, he can see the information of all users, and if he is a normal user, he can see only his own information.
+6-	Get the current user information: it only displays the information of the current user, which be used from the cache here.
+7-  Update the user's information like name, family, age and so on.
